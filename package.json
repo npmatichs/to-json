@@ -1,0 +1,23 @@
+{
+  "name": "to-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npmatichs/to-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmatichs/to-json/issues"
+  },
+  "homepage": "https://github.com/npmatichs/to-json#readme",
+  "dependencies": {
+    "csv": "^2.0.0",
+    "xlsx": "^0.11.8"
+  }
+}
