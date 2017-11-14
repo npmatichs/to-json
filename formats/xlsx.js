@@ -38,6 +38,6 @@ module.exports = {
         data.shift();
         data.shift();
 
-        return data;
+        return Promise.resolve(data);
 	}
 }
